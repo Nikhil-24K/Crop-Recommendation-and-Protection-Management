@@ -7,8 +7,8 @@
 
 ### Team Members:
 1. **Roll Number: 20201CST0182** : **Student Name:** **Pattabhi Ramanjuneyulu**
-2. **Roll Number: 20201CST0180** : **Student Name:** **Abhichandra V**
-3. **Roll Number: 20201CST0177** : **Student Name:** **V Nikhil Koushik**
+2. **Roll Number: 20201CST0177** : **Student Name:** **V Nikhil Koushik** 
+3. **Roll Number: 20201CST0180** : **Student Name:** **Abhichandra V**
 4. **Roll Number: 20201CST0164** : **Student Name:** **Chinna Nagi Reddy Bhanu Prakash**
 5. **Roll Number: 20211LCT0001** : **Student Name:** **Yellari Pavan Kumar**
 
